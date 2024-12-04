@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98fee97d-7084-4b7b-920a-7d729b0cf2c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/querybuilder/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/querybuilder/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/querybuilder/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/querybuilder/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/querybuilder/QueryBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/querybuilder/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/task0/AllStringMethods.java" afterDir="false" />
+    <list default="true" id="98fee97d-7084-4b7b-920a-7d729b0cf2c7" name="Changes" comment="hw done">
+      <change beforePath="$PROJECT_DIR$/src/hw/querybuilder/QueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw/querybuilder/QueryBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +49,20 @@
       <option name="presentableId" value="Default" />
       <updated>1733303671220</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw done">
+      <option name="closed" value="true" />
+      <created>1733305436493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733305436493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

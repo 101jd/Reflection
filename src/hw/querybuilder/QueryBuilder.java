@@ -117,8 +117,8 @@ public class QueryBuilder {
     public String buildDeleteQuery(Class<?> clazz, UUID primaryKey) {
         return new StringBuilder("DELETE FROM ")
                 .append(clazz.getAnnotation(Table.class).name())
-                .append(" WHERE id = ")
+                .append(" WHERE id = '")
                 .append(primaryKey)
-                .append(";").toString();
+                .append("';").toString();
     }
 }
